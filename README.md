@@ -8,7 +8,8 @@ npm run dev
 vite --port 8000 --host
 
 ## 끼양
-git config --global user.name "alcielukas"
+```
+git config --global user.name "alicelukas"
 git config --global user.email alicelukas@github.io
 npm run build
 mv docs docs1
@@ -17,3 +18,4 @@ rm -rf docs
 mv docs1 docs
 git add .
 git commit -m "build"
+```
