@@ -7,7 +7,7 @@
 	const routes = {
 		'/': Routes,
 		"/dailyquest": Routes,
-		"/incent": Routes,
+		"/encent": Routes,
 		"/inyean": Routes,
 		"/emoji": Routes,
 		"/optimization": Routes,
