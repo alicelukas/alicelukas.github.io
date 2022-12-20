@@ -18,6 +18,9 @@
 </script>
 
 <main>
+	<center>
+		<a href="https://github.com/alicelukas/alicelukas.github.io"><img src="icon.png"></a>
+	</center>
 	<Menu {menulist} />
 	<hr>
 	<Router {routes}/>
@@ -36,5 +39,15 @@
 		color: #999;
 		font-size: 12px;
 		margin: 0 0 1em 0;
+	}
+
+	a {
+		width: 100px;
+		height: 100px;
+	}
+
+	img {
+		width: 100px;
+		height: 100px;
 	}
 </style>
