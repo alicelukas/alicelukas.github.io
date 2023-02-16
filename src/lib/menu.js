@@ -19,6 +19,7 @@ let menulist = [
             "enchant_weapon.jpg",
             "enchant_armor.jpg",
             "enchant_acc.jpg",
+            "enchant_acc2.jpg",
             "enchant_rank.png",
         ]
     },
