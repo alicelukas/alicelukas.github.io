@@ -13,6 +13,7 @@
 		"/optimization": Routes,
 		"/jewel": Routes,
 		"/dungeon": Routes,
+		"/attacktable": Routes,
 		"/etcinfo": Routes,
 	};
 </script>

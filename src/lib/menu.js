@@ -78,6 +78,22 @@ let menulist = [
                 `,
     },
     {
+        url: "/#/attacktable",
+        title: "딜배율표",
+        text: `<img src="./character_attack percentagetable0.png">
+               <br>
+               <img src="./character_attack percentagetable1.png">
+               <br>
+               <img src="./character_attack percentagetable2.png">
+               <br>
+               <img src="./character_attack percentagetable3.png">
+               <br>
+               <img src="./character_attack percentagetable4.png">
+               <br>
+               <img src="./character_attack percentagetable5.png">
+               `,
+    },
+    {
         url: "/#/etcinfo",
         title: "정보",
         text: `
