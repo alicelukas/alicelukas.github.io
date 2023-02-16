@@ -27,8 +27,9 @@
 <style>
 	article {
 		position: relative;
-		padding: 0 0 0 2em;
+		/* padding: 0 0 0 2em; */
 		border-bottom: 1px solid #eee;
+		overflow: auto;
 	}
 
 	h2 {
