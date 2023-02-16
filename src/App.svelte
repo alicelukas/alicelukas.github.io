@@ -12,7 +12,7 @@
 		"/emoji": Routes,
 		"/optimization": Routes,
 		"/jewel": Routes,
-		"/Dungeon": Routes,
+		"/dungeon": Routes,
 		"/etcinfo": Routes,
 	};
 </script>
