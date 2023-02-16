@@ -9,8 +9,8 @@ vite --port 8000 --host
 
 ## 끼양
 ```
-git config --global user.name "alicelukas"
-git config --global user.email alicelukas@github.io
+git config user.name "alicelukas"
+git config user.email alicelukas@github.io
 npm run build
 mv docs docs1
 git checkout build
